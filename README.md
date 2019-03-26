@@ -1,4 +1,6 @@
-# conversor
+# Conversor de moedas em Vue.js
+
+Projeto apresentado neste [video](https://www.youtube.com/watch?v=tIEa3MRBpI0) do Igor Oliveira no canal programadorbr.
 
 ## Project setup
 ```
